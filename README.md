@@ -1,0 +1,2 @@
+# GraduationProject
+JavaScript graduation project
